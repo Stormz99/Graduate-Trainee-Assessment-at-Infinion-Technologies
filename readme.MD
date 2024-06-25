@@ -2,6 +2,8 @@
 
 <h3 text-align='center'> Prerequisites <h3>
 The following prerequisites are required for the Graduate Trainee Assessment by Infenion Technologies
+
+
 1. Complete the AZ-900t00 and show an evidence of completion.
 ![task-1](Inferion/confirmation-badge.png)
 
